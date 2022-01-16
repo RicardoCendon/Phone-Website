@@ -1,0 +1,80 @@
+    body
+    {
+        background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20191029/pngtree-white-acrylic-brush-background-image_320177.jpg");
+        background-repeat: round;
+    }
+    
+    .phones table
+    {
+        border-spacing: 4px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .phones th
+    {
+        border: 5px double black;
+        margin: 20px 10px;
+    }
+
+    .phones td
+    {
+        border: 3px;
+        border-style:ridge;
+        border-color: darkolivegreen ;
+        margin: 20px 10px;
+    }
+
+    .phones li
+    {
+        list-style-image: url("https://img.icons8.com/wired/64/000000/price-tag-euro.png");
+        list-style-position:inside;
+    }
+
+    tr.bulletBorder th
+    {
+        border: 0;
+    }
+
+    th.bulletBorder
+    {
+        border:0;
+    }
+
+    tr.noBorder th 
+    {
+        border: 0;
+    }
+
+    tr.noBorder td 
+    {
+        border: 0;
+        
+    }
+
+    tr.noBorder li 
+    {
+        list-style-image: none;
+    }
+
+    .nav1
+    {
+        text-align: left;
+    }
+
+    td 
+    {
+        text-align: center; 
+        vertical-align: middle;
+    }
+
+    #galaxy, #pixel
+    {
+        background-color:white;
+    }
+
+
+
+   
+ 
+    
