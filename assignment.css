@@ -68,13 +68,18 @@
         vertical-align: middle;
     }
 
-    #galaxy, #pixel
+    section img 
     {
-        background-color:white;
+        border-radius: 10px;
     }
 
+    #galaxy, #pixel
+    {
 
-
-   
- 
+    }    
     
+    footer table
+    {
+        margin-left: auto;
+        margin-right: auto;
+    }
